@@ -1,8 +1,8 @@
 {
-    "name": "LazyDeveloper Renamer Bot",
+    "name": "TIC Renamer Bot",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://telegra.ph/file/e01b2016af8ab7b7616dc.png",
-    "keywords": ["LazyDeveloper Renamer Bot", "Mongo DB"],    
+    "logo": "https://te.legra.ph/file/e0193bc972cf8da0036b1.jpg",
+    "keywords": ["TIC Renamer Bot", "Mongo DB"],    
     "repository": "https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT",
     "env": {
         "API_ID": {
