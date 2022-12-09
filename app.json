@@ -3,7 +3,7 @@
     "description": "Telegram File Renamer Bot ",
     "logo": "https://te.legra.ph/file/e0193bc972cf8da0036b1.jpg",
     "keywords": ["TIC Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT",
+    "repository": "https://github.com/darshan00777/TICRenameBot",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
