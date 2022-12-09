@@ -26,23 +26,21 @@ License Link : https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT/blob/
 
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Gangster Hacking... ❱━➣
+╭━━━━━━━━━━━━━━━━━━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
-╰━━━━━━━━━━━━━━━➣ """
+╰━━━━━━━━━━━━━━━━━━➣ """
 
     ABOUT_TXT = """
-╭───────────⍟
+╭──────────────⍟
 ├🤖 The Name is : {}
-├👑 ADMIN-TG : <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 
-├👑 Instagram : <a href=https://www.instagram.com/LazyDeveloperrr>C-Insta</a> 
+├👑 ADMIN-TG : <a href=https://t.me/DANGER1753>DANGER</a> 
 ├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁1 : <a href=https://apps.koyeb.com>Koyeb</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁2 : <a href=https://dashboard.heroku.com>Heroku</a>
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.vps-mart.com/>VPS</a>
 ├📊 BUILD-STATUS : Python v3.6.8               
 ╰───────────────⍟
                                 """
@@ -64,7 +62,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://www.instagram.com/LazyDeveloperrr>Direct Message</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=href=https://t.me/DANGER1753>DANGER</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
