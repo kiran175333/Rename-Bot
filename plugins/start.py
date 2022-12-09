@@ -96,6 +96,39 @@ async def cb_handler(client, query: CallbackQuery):
         ]
                 )
             )
+    elif data == "help":
+        await query.message.edit_text(
+            text=mr.HELP_TXT,
+            reply_markup=InlineKeyboardMarkup( [[
+               #⚠️ don't change source code & source link ⚠️ #
+               InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://www.instagram.com/LazyDeveloperrr")
+               ],[
+               InlineKeyboardButton("❤️‍🔥 How to use me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               ],[
+               InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/+WwDm2ByFlz80YTY9")
+               ],[
+               InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
+               InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
+               ]]
+            )
+        )
+    elif data == "about":
+        await query.message.edit_text(
+            text=mr.ABOUT_TXT.format(client.mention),
+            disable_web_page_preview = True,
+            reply_markup=InlineKeyboardMarkup( [[
+               #⚠️ don't change source code & source link ⚠️ #
+               InlineKeyboardButton("❣️ Developer ❣️", url="https://www.instagram.com/LazyDeveloperrr")
+               ],[
+               InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw')
+               ],[
+                InlineKeyboardButton("🎬 Join our Movie Channel 🎬", url="https://t.me/+WwDm2ByFlz80YTY9")
+               ],[
+               InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
+               InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
+               ]]
+            )
+        )
     elif data == "close":
         try:
             await query.message.delete()
